@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Bhardwaj;AI%2FML+Enthusiast+%7C+Dev+Explorer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Bhardwaj;AI%2FML+Enthusiast+%7C+Dev+Explorer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Engineering Student | AI/ML Enthusiast | Web Dev Learner</h3>
@@ -76,6 +76,8 @@
 ---
 
 <!-- 🌊 WAVE ANIMATION AT BOTTOM -->
-<img src="https://raw.githubusercontent.com/Pixengineer/Pixengineer/main/assets/wave.svg" alt="wave" style="width:100%; margin-top: 20px;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pixengineer/Pixengineer/main/assets/wave.svg" alt="wave" style="width:100%;" />
+</p>
 
 <p align="center">✨ <i>“Build. Learn. Repeat.”</i> ✨</p>
