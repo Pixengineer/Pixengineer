@@ -12,7 +12,6 @@
 
 - 🎓 Pursuing B.Tech in Mathematics and Computing at **RGIPT**
 - 💡 Passionate about **AI/ML, C++,DSA,  Robotics, and Web Development**
-- ✨ Reliance Foundation Scholar |
 - 📫 Reach me: **bhardwajsatyamofficial@gmail.com**
 
 ---
