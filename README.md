@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Satyam Bhardwaj (aka Pixengineer)</h1>
-<h3 align="center">🚀 Engineering Student | AI/ML Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Satyam Bhardwaj </h1>
+<h3 align="center">🚀 Engineering Student | AI/ML Enthusiast | </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Always+learning+new+stuff" alt="Typing SVG" />
@@ -11,9 +11,9 @@
 ### 🌟 About Me
 
 - 🎓 Pursuing B.Tech in Mathematics and Computing at **RGIPT**
-- 💡 Passionate about **AI/ML, C++, Robotics, and Web Development**
-- ✨ Reliance Foundation Scholar | Quiz Champion | Class Topper
-- 📫 Reach me: **satyam@example.com**
+- 💡 Passionate about **AI/ML, C++,DSA,  Robotics, and Web Development**
+- ✨ Reliance Foundation Scholar |
+- 📫 Reach me: **bhardwajsatyamofficial@gmail.com**
 
 ---
 
@@ -48,11 +48,6 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-- 🥇 Winner - Quiz Competition (RGIPT)
-- 🧠 Reliance Foundation Scholar (2024–25)
-- 🏅 Top Performer in School (Class 10 - 90.2%, Class 12 - 80.2%)
 
 ---
 
