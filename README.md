@@ -53,13 +53,6 @@
 
 ---
 
-### 📈 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Pixengineer/Pixengineer/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📬 Connect with Me
 <p align="center">
   <a href="mailto:bhardwajsatyamofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -71,13 +64,6 @@
 ### ✨ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<!-- 🌊 WAVE ANIMATION AT BOTTOM -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pixengineer/Pixengineer/main/assets/wave.svg" alt="wave" style="width:100%;" />
 </p>
 
 <p align="center">✨ <i>“Build. Learn. Repeat.”</i> ✨</p>
