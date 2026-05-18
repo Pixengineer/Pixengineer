@@ -30,7 +30,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css" />
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ### Web Development
