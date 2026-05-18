@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pixengineer&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Pixengineer?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/Pixengineer?label=Followers&style=for-the-badge&color=blue&cacheSeconds=1800" />
 </p>
 
 ---
