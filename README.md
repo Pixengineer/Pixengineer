@@ -17,8 +17,8 @@
 
 🎓 **B.Tech in Mathematics & Computing @ RGIPT**  
 🧠 Passionate about **Artificial Intelligence, Machine Learning, Web Development & Problem Solving**  
-💼 **Executive Member @ IEEE Student Chapter, RGIPT**  
-🎯 Mentored a **40+ Hour AI/ML Bootcamp**  
+💼 **Executive Cohead @ IEEE Student Chapter, RGIPT**  
+🎯 Mentored a **ML Bootcamp**  
 🏆 **Reliance Foundation Undergraduate Scholar**  
 🏆 **PM YASASVI Scholar**  
 🌱 Currently learning **Advanced Machine Learning, Full Stack Development & DSA**  
