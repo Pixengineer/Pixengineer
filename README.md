@@ -29,30 +29,30 @@
 # 💻 Tech Stack
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css" />
-<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ### AI / ML
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ### Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,express" />
 </p>
 
 ### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,netlify" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,netlify" />
 </p>
 
 ---
@@ -76,12 +76,13 @@ Modern animated React portfolio.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pixengineer&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pixengineer&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pixengineer&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=Pixengineer&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixengineer&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixengineer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -111,18 +112,18 @@ Modern animated React portfolio.
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:bhardwajsatyamofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="mailto:bhardwajsatyamofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/satyam-bhardwaj-94a07631b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/satyam-bhardwaj-94a07631b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://github.com/Pixengineer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/Pixengineer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
