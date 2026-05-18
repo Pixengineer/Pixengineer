@@ -5,9 +5,8 @@
 <h3 align="center">⚡ AI/ML Enthusiast • Full Stack Learner • Problem Solver • Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Pixengineer&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Pixengineer?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -23,7 +22,6 @@
 🏆 **Reliance Foundation Undergraduate Scholar**  
 🏆 **PM YASASVI Scholar**  
 🌱 Currently learning **Advanced Machine Learning, Full Stack Development & DSA**  
-💬 Ask me about **Python, C++, Machine Learning, Web Dev**  
 📫 Reach me at: **bhardwajsatyamofficial@gmail.com**
 
 ---
@@ -31,25 +29,27 @@
 # 💻 Tech Stack
 
 ### Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css,sql,matlab" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,html,css,sql" />
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ### AI / ML
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
 ### Web Development
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,express" />
 </p>
 
 ### Tools
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,netlify" />
 </p>
 
@@ -58,72 +58,45 @@
 # 🌟 Featured Projects
 
 ## 🧠 AI Resume Analyzer
-🔹 AI-powered resume analysis platform using NLP  
-🔹 Skill extraction + job matching + resume suggestions  
-
-**Tech:** Python, Streamlit, Scikit-learn, NLP
-
----
+AI-powered resume analysis using NLP & job matching.
 
 ## 🌫️ Air Quality Predictor
-🔹 ML model for predicting air quality  
-🔹 Interactive real-time prediction dashboard  
-
-**Tech:** Python, Scikit-learn, Pandas, NumPy
-
----
+Machine learning-based AQI prediction dashboard.
 
 ## 📰 AI Fake News Detector
-🔹 Detect fake vs real news using NLP  
-🔹 Streamlit UI for live predictions  
-
-**Tech:** Python, TF-IDF, Logistic Regression
-
----
+Fake news classification using NLP.
 
 ## 🌐 Personal Portfolio Website
-🔹 Modern animated developer portfolio  
-🔹 Smooth UI with GSAP animations  
-
-**Tech:** React, TypeScript, GSAP, Vite
+Modern animated React portfolio.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pixengineer&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pixengineer&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixengineer&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🏆 Achievements
 
-🥇 Reliance Foundation Undergraduate Scholar  
-🥇 PM YASASVI Scholarship Recipient  
+🥇 Reliance Foundation UG Scholar  
+🥇 PM YASASVI Scholar  
 🥇 IEEE Executive Member  
 🥇 AI/ML Bootcamp Mentor  
-🥇 Built Multiple AI Projects  
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pixengineer&theme=tokyo-night" />
 </p>
 
 ---
@@ -131,35 +104,23 @@
 # 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pixengineer&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 <a href="mailto:bhardwajsatyamofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/satyam-bhardwaj-94a07631b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pixengineer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
-
----
-
-# ✨ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <b><i>"Code. Learn. Build. Repeat. 🚀"</i></b>
 </p>
