@@ -17,11 +17,7 @@
 
 🎓 **B.Tech in Mathematics & Computing @ RGIPT**  
 🧠 Passionate about **Artificial Intelligence, Machine Learning, Web Development & Problem Solving**  
-💼 **Executive Cohead @ IEEE Student Chapter, RGIPT**  
-🎯 Mentored a **ML Bootcamp**  
-🏆 **Reliance Foundation Undergraduate Scholar**  
-🏆 **PM YASASVI Scholar**  
-🌱 Currently learning **Advanced Machine Learning, Full Stack Development & DSA**  
+ 🌱 Currently learning **Advanced Machine Learning, Full Stack Development & DSA**  
 📫 Reach me at: **bhardwajsatyamofficial@gmail.com**
 
 ---
@@ -75,12 +71,6 @@ Modern animated React portfolio.
 
 
 
-# 🏆 Achievements
-
-🥇 Reliance Foundation UG Scholar  
-🥇 PM YASASVI Scholar  
-🥇 IEEE Executive Member  
-🥇 AI/ML Bootcamp Mentor  
 
 ---
 
